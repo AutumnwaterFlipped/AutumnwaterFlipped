@@ -1,4 +1,4 @@
-## ITS with MFF-STGCN method.
+## MFF-STGCN method.
 This project's data is Shanghai parking flow.csv
 
 It is raw data of Shanghai parking lots.
