@@ -1,7 +1,7 @@
 ## MFF-STGCN method.
 This project's data is Shanghai parking flow.csv
 
-It is raw data of Shanghai parking lots.
+It is raw data of Huangpu parking data.
 
 If you don't have it, please contact me.
 ## Code structure
